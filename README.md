@@ -38,8 +38,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-testimonials-sliders-8BnOgPQJ17)
+- Live Site URL: [GitHub](hhttps://nicoams.github.io/testimonials-slider/)
 
 ## My process
 
